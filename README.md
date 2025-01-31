@@ -19,20 +19,24 @@ WhatsApp Auto Sender Bot is a user-friendly GUI tool that automates sending mess
 🖥️ Installation
 
 **1. Clone the Repository**
+
 git clone https://github.com/yourusername/whatsapp-auto-sender.git
 cd whatsapp-auto-sender
 
 **2. Install Dependencies**
+
 Make sure you have Python 3.8+ installed. Install the required libraries:
 
 pip install -r requirements.txt
 
 **3. Install & Setup ChromeDriver**
+
 Download ChromeDriver compatible with your Chrome version:
 https://chromedriver.chromium.org/downloads
 Extract and place it in the project folder or add it to the system PATH.
 
 **4. Run the Bot**
+
 python main.py
 
 ⚙️ Usage
